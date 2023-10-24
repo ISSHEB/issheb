@@ -5,9 +5,7 @@
   <img src="https://github.com/ISSHEB/issheb/assets/130592876/61a764b9-4f3b-435f-af18-f03aa852c4ad" title="" alt="" width="450" height="350"/>&nbsp;
 
 <br>
-
-### :hammer_and_wrench: Стеки :
-
+### :hammer_and_wrench: Стек :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
