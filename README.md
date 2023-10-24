@@ -29,11 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 <br>
-<br> 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-<br> 
-<br> 
 
 <h2> О себе</h2>
 - 💼 **Занятость:** Работаю в Веб-студии **WeTop** и занимаюсь разработкой веб-приложений.<br>
