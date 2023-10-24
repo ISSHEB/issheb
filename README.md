@@ -1,4 +1,4 @@
-<h2>Привет🤙</h2> 
+<h1>Привет🤙</h2> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Меня+зовут+Ислам+🙃)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+Frontend+разрабочик💻)](https://git.io/typing-svg)
