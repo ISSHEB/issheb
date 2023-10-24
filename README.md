@@ -1,5 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет🤙Я+Ислам+и+Я+frontend+developeк)](https://git.io/typing-svg)
+### Привет🤙
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Ислам+и+Я+Frontend+разрабочик🙃)](https://git.io/typing-svg)
 <br>
 
   <img src="https://github.com/ISSHEB/issheb/assets/130592876/61a764b9-4f3b-435f-af18-f03aa852c4ad" title="" alt="" width="450" height="350"/>&nbsp;
