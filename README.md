@@ -38,6 +38,5 @@
 <br>
 <br> 
 <h2> :fire: Мой Уровень в CodeWar</h1>  
-<br>
 
 [![codewars](https://www.codewars.com/users/Islam123/badges/large)](https://www.codewars.com/users/Islam123) 
