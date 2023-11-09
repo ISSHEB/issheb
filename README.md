@@ -30,12 +30,11 @@
 </div>
 
 <br>
- 
-<div class="container"> 
+<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark))](https://github.com/ISSHEB/github-readme-stats) 
 
-</div>
+
 
 <br>
 
