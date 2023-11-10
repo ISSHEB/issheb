@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Меня+зовут+Ислам+🙃)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+Frontend+разрабочик💻)](https://git.io/typing-svg)
+
 <h2>:hammer_and_wrench: Стек : </h2>
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -28,24 +27,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
 <br>
 <br>
 
 <h2> :fire: Cтатистика используемых языков :</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark))](https://github.com/ISSHEB/github-readme-stats) 
-
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark))](https://github.com/ISSHEB/github-readme-stats) 
+</div>
 <br>
-
 <h2> О себе</h2>
 - 💼 **Занятость:** Работаю в Веб-студии **WeTop** и занимаюсь разработкой веб-приложений.<br>
 - 🌱 **Опыт:** У меня более 2-x лет опыта в разработке веб-приложений и React приложений.<br>
 - 💰 **Подработка:** Выполняю заказы на Кворке по разработвке разных ботов🤖. 
+
 <br>
 <br> 
 <br> 
-
 <h2> 📓: Мой Уровень в CodeWar</h1>  
 
 [![codewars](https://www.codewars.com/users/Islam123/badges/large)](https://www.codewars.com/users/Islam123) 
