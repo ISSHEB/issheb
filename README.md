@@ -31,13 +31,14 @@
 
 <br>
 <br>
-  
+
+<h2> :fire: Cтатистика используемых языков :</h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark))](https://github.com/ISSHEB/github-readme-stats) 
 
 
-
 <br>
-
+<br>
 
 <h2> О себе</h2>
 - 💼 **Занятость:** Работаю в Веб-студии **WeTop** и занимаюсь разработкой веб-приложений.<br>
@@ -45,6 +46,10 @@
 - 💰 **Подработка:** Выполняю заказы на Кворке по разработвке разных ботов🤖. 
 <br>
 <br> 
-<h2> :fire: Мой Уровень в CodeWar</h1>  
+<br> 
+
+<h2> 📓: Мой Уровень в CodeWar</h1>  
 
 [![codewars](https://www.codewars.com/users/Islam123/badges/large)](https://www.codewars.com/users/Islam123) 
+<br>
+<br>
