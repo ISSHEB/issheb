@@ -33,7 +33,7 @@
 <h2> :fire: Cтатистика используемых языков :</h2>
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark))](https://github.com/ISSHEB/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issheb&layout=compact&theme=vision-friendly-dark))](https://github.com/issheb/github-readme-stats) 
 </div>
 <br>
 <h2> О себе</h2>
