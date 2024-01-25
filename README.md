@@ -39,12 +39,11 @@
 <h2> :fire: Cтатистика используемых языков :</h2>
 <div>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issheb&layout=compact&theme=vision-friendly-dark))](https://github.com/issheb/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISSHEB&layout=compact&theme=vision-friendly-dark)](https://github.com/ISSHEB/github-readme-stats)
 </div>
 <br>
 <h2> О себе</h2>
-- 💼 **Занятость:** Работаю в Веб-студии **WeTop** и занимаюсь разработкой веб-приложений.<br>
-- 🌱 **Опыт:** У меня более 2-x лет опыта в разработке веб-приложений и React приложений.<br>
+- 🌱 **Опыт:** У меня более 2-x лет опыта в разработке веб-приложений и React приложений и GO .<br>
 - 💰 **Подработка:** Выполняю заказы на Кворке по разработвке разных ботов🤖. 
 
 <br>
