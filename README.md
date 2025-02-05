@@ -1,7 +1,7 @@
 <h1>Привет🤙</h2> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C2336BCF7&lines=Меня+зовут+Ислам+🙃)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+FullStack+разрабочик💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+Golang+разрабочик💻)](https://git.io/typing-svg)
 
 :hammer_and_wrench: Стек :
 <div align="left">
