@@ -75,11 +75,4 @@
 ### 📫 Как со мной связаться:
 
 *   **Telegram:** [@ISSFL_sh](https://t.me/ISSFL_sh)
-*   **Email:** *[указать при необходимости]*
-*   **LinkedIn:** *[указать при необходимости]*
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ISSHEB&show_icons=true&locale=en&layout=compact&theme=radical" alt="islam123" />
-</p>
