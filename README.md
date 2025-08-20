@@ -1,36 +1,85 @@
-<h1>Привет🤙</h2> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C2336BCF7&lines=Меня+зовут+Ислам+🙃)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+Golang+разрабочик💻)](https://git.io/typing-svg)
+<h1 align="center">Привет 👋, Меня зовут Ислам</h1>
+<h3 align="center">Опытный Backend/Golang разработчик с опытом построения высоконагруженных и отказоустойчивых систем</h3>
 
-:hammer_and_wrench: Стек :
-<div align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img width="8"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" width="40" height="40" />
-<img width="8"/>
-<img width="8"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="40" height="40" />
-<img width="8"/>
+---
 
-</div>
-<br>
-<h2> О себе</h2>
-- 🌱 **Опыт:** У меня есть более двух лет опыта в области разработки программного обеспечения, включая опыт работы с языками программирования Golang<br>
-- 🤖 **Frontend:** Опыт работы с фреймворками: React/VUE . 
+### 🛠️ Технологический стек:
 
-<br>
-<br> 
-<br> 
-<h2> 📓: Мой Уровень в CodeWar</h1>  
+**Backend:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-0099E1?style=for-the-badge&logo=go&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-2D6?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-2D6?style=for-the-badge&logo=grpc&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/Islam123/badges/large)](https://www.codewars.com/users/Islam123) 
-<br>
-<br>
+**Базы данных и кэширование:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**Инфраструктура и DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-2D6?style=for-the-badge&logo=keycloak&logoColor=white)
+
+**Прочее:**
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-2D6?style=for-the-badge&logo=socket.io&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 Моя статистика на Codewars:
+
+[![codewars](https://www.codewars.com/users/Islam123/badges/large)](https://www.codewars.com/users/Islam123)
+
+---
+
+### 👨‍💻 Опыт работы:
+
+#### **РАСУ** — *Golang-разработчик / Главный инженер*
+*Июнь 2024 — настоящее время (1 год 3 месяца+)*
+
+*   **Техническое лидерство:** Руководство командой разработки (постановка задач, код-ревью, менторинг), проектирование архитектуры (микросервисы, DDD), участие в планировании и декомпозиции бизнес-требований.
+*   **Ключевые достижения:**
+    *   **Оптимизация производительности:** Ускорил обработку файлов (до 10 МБ) в рамках Saga-транзакций с 20 до 4 секунд за счет параллельного импорта в S3/PostgreSQL, рефакторинга индексов и создания отказоустойчивой системы синхронизации.
+    *   **Разработка архитектуры:** Спроектировал и реализовал микросервисную архитектуру (DDD) для системы документооборота и анализа данных.
+    *   **Безопасность и инфраструктура:** Реализовал RESTful API на Gin с интеграцией Keycloak для аутентификации. Настроил Kubernetes-кластер для оркестрации контейнеров, повысив отказоустойчивость системы.
+    *   **Качество кода:** Внедрил unit-тестирование (85% coverage), что сократило количество багов в production на 30%.
+
+*Стек: Golang, Gin, GORM, PostgreSQL, Redis, Kubernetes, Docker, Keycloak, GitLab CI-CD, Elasticsearch*
+
+#### **Фриланс / Индивидуальное предпринимательство** — *Golang-разработчик*
+*Ноябрь 2022 — Июнь 2024 (1 год 8 месяцев)*
+
+*   **Разработка высоконагруженных систем:** Проектирование и реализация платежного шлюза с пропускной способностью более 1000 транзакций в секунду.
+*   **Оптимизация:** Сократил время ответа API на 50% за счет глубокой оптимизации работы с базой данных.
+*   **Full-stack разработка:** Разработал веб-приложение на Go (бэкенд) и Vue.js (фронтенд) для автоматизации бизнес-процессов.
+
+*Стек: Golang, PostgreSQL, Redis, Vue.js, Docker, REST API, gRPC*
+
+---
+
+### 🎓 Образование:
+
+*   **Российский экономический университет им. Г.В. Плеханова**, Москва
+    *   Факультет: ФДО
+    *   Специальность: Информационные технологии
+    *   Степень: Бакалавр (ожидается в 2025)
+
+---
+
+### 📫 Как со мной связаться:
+
+*   **Telegram:** [@ISSFL_sh](https://t.me/ISSFL_sh)
+*   **Email:** *[указать при необходимости]*
+*   **LinkedIn:** *[указать при необходимости]*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=islam123&show_icons=true&locale=en&layout=compact&theme=radical" alt="islam123" />
+</p>
